@@ -1,0 +1,25 @@
+body {
+    background: url('back.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+ 
+
+  .white-text {
+    color: white;
+}
+div {
+    text-align: center;
+}
+.center-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#text-box {
+    background-color: black;
+    
+}
